@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">HouseKeep</string>
+    <string name="text_box">Whattup my guy</string>
+    <string name="buttom">Press Me</string>
+    <string name="edit_message">Enter Message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Username and Password are incorrect</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+    <string name="create_account">"No Account? No Problem."</string>
+    <string name="create_account_title">"Create Account"</string>
+    <string name="action_profile">Profile</string>
+    <string name="please_input_account_info">Please Enter Information Below</string>
+    <string name="enter_name">Name</string>
+    <string name="prompt_password_again">Re-Enter Password</string>
+    <string name="sign_up_consent_warning">By selecting \"Sign Up\" you agree to let us use your information to figure out what the hell we are trying to do. Thanks! P.S. Please don\'t use your normal password.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_home">This is Home</string>
+    <string name="home_page">Home</string>
+    <!-- Strings related to UserProfile -->
+    <string name="title_activity_user_profile">Profile</string>
+    <string name="name_field">Name:</string>
+    <string name="username_field">Username:</string>
+    <string name="chores_completed_field">Chores Completed:</string>
+    <string name="statistics_title">Statistics:</string>
+    <string name="user_info_title">User Info:</string>
+    <string name="email_field">Email:</string>
+    <string name="sign_out_button">Sign Out</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="nav_bar_profile">Profile</string>
+    <string name="nav_bar_create">Create</string>
+    <string name="nav_bar_home">Home</string>
+    <string name="title_activity_home_test">HomeTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_create_task">Create Task</string>
+
+    <!-- Strings related to Create matt.housekeep.Task -->
+    <string name="choose_type">Type:</string>
+    <string name="choose_frequency">Frequency:</string>
+    <string name="frequency_tooltip">Choose N/A for Frequency if you wish to create a task, otherwise a chore rotation is created in the given interval.</string>
+    <string name="create_task">Create!</string>
+    <string name="task_description">Description:</string>
+
+    <!-- Strings related to Notifications -->
+    <string name="title_activity_notification">NotificationActivity</string>
+
+    <string name="shared_prefs_key">"com.example.HouseKeep.prefs"</string>
+    <string name="saved_username_key">username_key</string>
+    <string name="title_activity_group">GroupActivity</string>
+    <string name="username_requirements">Username must be 8 - 20 characters.</string>
+    <string name="password_requirement">Password must contain [a-z], [A-Z], [0 - 9], and a special char.</string>
+    <string name="loggedIn">false</string>
+    <string name="chore_title">Your Chores:</string>
+    <string name="title_activity_create_group">CreateGroupActivity</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Strings related to Settings -->
+    <string name="notifications">Notifications</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="change_password">Change Password</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+
+    <!-- Strings related to Edit Profile -->
+    <string name="change_name">Change Name</string>
+    <string name="change_username">Change Username</string>
+    <string name="change_picture">Change Profile Picture</string>
+
+    <string name="privacy_policy_info">This application has been created to help us (the developers) learn how to use Android Studio and integrate a real-time database. We do not know what we are doing. Please, do not enter or share any sensative information through our application as we cannot guarantee proper security. While we promise to do our best to keep your information safe, do not enter any information you would not feel comfortable sharing publicly. We appreciate your understanding and hope you enjoy our application.</string>
+    <string name="title_activity_invite_members">InviteMembersActivity</string>
+    <string name="title_activity_group_info">GroupInfoActivity</string>
+
+    <!-- Strings related to group info -->
+    <string name="number_of_chores">Chores:</string>
+    <string name="number_of_tasks">Tasks:</string>
+    <string name="tasks_completed">Tasks Completed:</string>
+    <string name="number_of_members">Number of Members:</string>
+    <string name="title_activity_chore">ChoreActivity</string>
+
+</resources>
